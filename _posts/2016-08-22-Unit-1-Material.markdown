@@ -18,4 +18,4 @@ Students must submit assignment 1.1 <strong>on or before 27 August 2016.</strong
 
 <strong> Unit 1 Presentation Slides </strong><br>
 <a href="http://anubhavpatrick.github.io/RCS101_Unit_1.ppt ">Click here to download Unit 1 presentation slides </a><br>
-These slides are only meant for quick reference and lots of syllabus topics are not covered in it. Students must read text books for complete preperation.
+These slides are only meant for quick reference and lots of syllabus topics are not covered in them. Students must read text books for complete preparation.
