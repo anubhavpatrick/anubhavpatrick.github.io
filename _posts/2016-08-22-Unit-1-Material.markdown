@@ -4,9 +4,9 @@ title:  "RCS 101 Unit 1"
 date:   2016-08-22 09:15:36 +0530
 categories: jekyll update
 ---
-<strong> Assignment 1.2 </strong>
+<strong> Assignment 1.2 </strong><br>
 <a href="http://anubhavpatrick.github.io/RCS101Assignment1.2.pdf "> Click here to download assignment 1.2</a><br>
-Students are expected to submit me this assignment on or before 14th September 2016. Students must thoroughly preprare all question of <strong>Part A</strong> of this assignment along with complete Assignment 1.1 for CT1.
+Students are expected to submit me this assignment on or before 14th September 2016. Students must thoroughly preprare all question of <strong>Part A</strong> of this assignment along with complete Assignment 1.1 for CT1.<br>
 
 <strong>Unit 1 Notes </strong><br>
 <a href="http://anubhavpatrick.github.io/unit_1_Notes.doc"> Click here to download Unit 1 Notes and Question Bank </a><br>
