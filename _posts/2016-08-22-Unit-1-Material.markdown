@@ -5,7 +5,7 @@ date:   2016-08-22 09:15:36 +0530
 categories: jekyll update
 ---
 <strong> Unit 1 Syllabus </strong><br>
-<a href="http://anubhavpatrick.github.io/RCS101Unit1Syllabus.pdf "> Click here to download assignment 1.2</a><br>
+<a href="http://anubhavpatrick.github.io/RCS101Unit1Syllabus.pdf "> Click here to download unit 1 syllabus/a><br>
 This is complete unit 1 syllabus as prescribed by university. Following two topics from unit 1 are not coming in CT1 <br>
 <ul>
   <li> Flowcharts </li>
