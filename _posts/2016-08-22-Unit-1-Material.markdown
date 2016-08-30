@@ -9,7 +9,7 @@ categories: jekyll update
 This is complete unit 1 syllabus as prescribed by university. Following two topics from unit 1 are not coming in CT1 <br>
 <ul>
   <li> Flowcharts </li>
-  <li> Algorithms <li>
+  <li> Algorithms </li>
 </ul>
 
 <strong> Assignment 1.2 </strong><br>
