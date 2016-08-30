@@ -13,7 +13,7 @@ This is complete unit 1 syllabus as prescribed by university. Following two topi
 </ul>
 
 <strong> Assignment 1.2 </strong><br>
-<a href="http://anubhavpatrick.github.io/RCS101Assignment1.2.pdf "> Click here to download assignment 1.2</a><br>
+<a href="http://anubhavpatrick.github.io/RCS101Assignment 1.2.pdf "> Click here to download assignment 1.2</a><br>
 Students are expected to submit me this assignment on or before 14th September 2016. Students must thoroughly preprare all question of <strong>Part A</strong> of this assignment along with complete Assignment 1.1 for CT1.<br>
 
 <strong>Unit 1 Notes </strong><br>
