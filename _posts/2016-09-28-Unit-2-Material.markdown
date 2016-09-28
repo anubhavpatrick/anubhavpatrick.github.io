@@ -13,6 +13,6 @@ This is complete unit 2 syllabus as prescribed by university. <br>
 Students must thoroughly preprare all question of this assignment along with other relevant assignments for CT2.<br>
 
 <strong>Unit 2 Notes </strong><br>
-<a href="http://anubhavpatrick.github.io/RCS101Unit1Notes.pdf"> Click here to download Unit 2 Notes and Question Bank </a><br>
+<a href="http://anubhavpatrick.github.io/RCS101Unit2Notes.pdf"> Click here to download Unit 2 Notes and Question Bank </a><br>
 Students can consult these notes for quick reference. These notes also contain questions at the end which I think are important for CTs and Externals. <br>
 
