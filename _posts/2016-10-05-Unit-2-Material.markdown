@@ -15,6 +15,9 @@ categories: jekyll update
 
 <strong>Unit 3 Notes </strong><br>
 <a href="http://anubhavpatrick.github.io/RCS101Unit3Notes.pdf"> Click here to download Unit 3 Notes and Question Bank </a><br>
+
+<strong> Patterns and Designs <strong><br>
+<a href="http://anubhavpatrick.github.io/Patterns\ and\ Design\ using\ C\ Language.pptx"
 <h3> Assignment 3.1 Programming Solution </h3><br>
 WAP to find out whether a given number is a multiple of 11 or not.<br>
 {% highlight c linenos %}
