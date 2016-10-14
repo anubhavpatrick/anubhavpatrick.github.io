@@ -19,7 +19,7 @@ categories: jekyll update
 
 <h3> Assignment 3.2 Programming Solution </h3><br>
 1. WAP to find out whether a number is prime number.<br>
-{% highlight c %}
+{% highlight c linenos %}
 #include<stdio.h>
 #include<stdlib.h>
 void main()
@@ -39,10 +39,10 @@ void main()
 }
 
 {% endhighlight %}
-2. WAP to find sum of digits of a number. <br>
-{% highlight c %}
+2. WAP to find sum of digits of a number.
+{% highlight c linenos %}
 #include<stdio.h>
-int main()
+void main()
 {
 	int n,r,sum=0;
 	printf("Enter a number: ");
@@ -55,6 +55,5 @@ int main()
 		
 	}
 	printf("Sum of digits of is %d\n",sum);
-	return 0;
 }
 {% endhighlight %}
