@@ -38,9 +38,9 @@ void main()
 	printf("%d is a prime number\n",n);
 }
 
-{% endhighlight %}
+
 2. WAP to find sum of digits of a number. <br>
-{% highlight c %}
+
 #include<stdio.h>
 int main()
 {
