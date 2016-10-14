@@ -16,8 +16,8 @@ categories: jekyll update
 <strong>Unit 3 Notes </strong><br>
 <a href="http://anubhavpatrick.github.io/RCS101Unit3Notes.pdf"> Click here to download Unit 3 Notes and Question Bank </a><br>
 
-<strong> Patterns and Designs Presentation<strong><br>
-<a href="http://anubhavpatrick.github.io/Patterns\ and\ Design\ using\ C\ Language.pptx"> Click here to download presentation on patterns and designs </a><br>
+<strong> Patterns and Designs Presentation</strong><br>
+<a href="http://anubhavpatrick.github.io/Patterns%20and%20Design%20using%20C%20Language.pptx"> Click here to download presentation on patterns and designs </a><br>
 
 <strong> Recursion Presentation </strong>
 <a href="http://anubhavpatrick.github.io/Recursion.pptx"> Click here to download presentation on Recursion </a><br>
