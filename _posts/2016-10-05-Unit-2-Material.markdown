@@ -80,7 +80,7 @@ void main()
 {% endhighlight %}
 
 WAP to print sum of following series:
-1/x + 1/x2 + 1/x3 ……………….. 1/xn
+1/x + 1/(x^2) + 1/(x^3) ……………….. 1/(x^n)<br>
 E.g., if the user enters x=2 and n=3
 Your program should display => 0.875
 <br>
@@ -102,9 +102,9 @@ void main()
 {% endhighlight %}
 
 WAP in C to print following pattern:
-1
-2 3
-4 5 6
+1<br>
+2 3<br>
+4 5 6<br>
 7 8 9 10
 <br>
 {% highlight c linenos %}
@@ -168,7 +168,7 @@ int fact(int num)// Function Definition
 }
 {% endhighlight %}
 
-WAP to find GCD of a given number using functions and using recursion.
+WAP to find GCD of a given number using functions and using recursion.<br>
 <strong> Using Functions Only </strong>
 <br>
 {% highlight c linenos %}
