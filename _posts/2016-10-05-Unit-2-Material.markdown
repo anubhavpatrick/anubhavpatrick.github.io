@@ -101,7 +101,7 @@ void main()
 }
 {% endhighlight %}
 
-WAP in C to print following pattern:
+WAP in C to print following pattern:<br>
 1<br>
 2 3<br>
 4 5 6<br>
@@ -218,7 +218,7 @@ void main()
 	printf("GCD=%d\n",g);
 	return 0;
 }
-void gcd(int p, int q)
+int gcd(int p, int q)
 {
 	int r;
 	r=p%q;
