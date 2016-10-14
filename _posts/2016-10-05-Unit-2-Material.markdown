@@ -294,12 +294,12 @@ void main()
 	factorial=fact(num); //Function Call
 	printf("Factotial of %d is %d\n",num,factorial);
 }
-int fact(int num)// Function Definition
+int fact(int n)// Function Definition
 {
-	int i,f=1;
-	for(i=num;i>=1;i--)
-		f=f*i;
-	return f;
+	if(n==0)
+		return 1;
+	else
+		return n*fact(n-1);
 }
 {% endhighlight %}
 
@@ -357,9 +357,9 @@ int gcd(int p, int q)
 {
 	int r;
 	r=p%q;
-	if(r==0)
+	if(r==0)//base case
 		return q;
 	else
-		return gcd(q,r);
+		return gcd(q,r);//recursive case
 }
 {% endhighlight %}
