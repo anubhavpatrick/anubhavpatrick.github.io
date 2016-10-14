@@ -20,7 +20,7 @@ categories: jekyll update
 <a href="http://anubhavpatrick.github.io/Patterns\ and\ Design\ using\ C\ Language.pptx"> Click here to download presentation on patterns and designs </a><br>
 
 <strong> Recursion Presentation </strong>
-<a href="ttp://anubhavpatrick.github.io/Recursion.pptx"> Click here to download presentation on Recursion </a><br>
+<a href="http://anubhavpatrick.github.io/Recursion.pptx"> Click here to download presentation on Recursion </a><br>
 <h3> Assignment 3.1 Programming Solution </h3><br>
 WAP to find out whether a given number is a multiple of 11 or not.<br>
 {% highlight c linenos %}
