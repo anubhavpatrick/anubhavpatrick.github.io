@@ -15,9 +15,138 @@ categories: jekyll update
 
 <strong>Unit 3 Notes </strong><br>
 <a href="http://anubhavpatrick.github.io/RCS101Unit3Notes.pdf"> Click here to download Unit 3 Notes and Question Bank </a><br>
+<br><h3> Assignment 3.1 Programming Solution </h3><br>
+WAP to find out whether a given number is a multiple of 11 or not.<br>
+{% highlight c linenos %}
+#include<stdio.h>
+void main()
+{
+	int num;
+	printf("Enter a number\n");
+	scanf("%d",&num);
+	if(num%11==0)
+		printf("Number is divisible by 11\n");
+	else
+		printf("Number is not divisible by 11\n");
+}
+{% endhighlight %}
+WAP to take three angles of a triangle as input and find out whether the triangle formed is a valid triangle or not.<br>
+{% highlight c linenos %}
+#include<stdio.h>
+void main()
+{
+	float a1,a2,a3;
+	printf("Enter three angles of the triangle: ");
+	scanf("%f%f%f",&a1,&a2,&a3);
+	if((a1+a2+a3)==180)
+		printf("Valid Triangle\n");
+	else
+		printf("Invalid Triangle\n");
+}
+{% endhighlight %}
+WAP to solve the roots of a quadratic equation. Roots are given by<br>
+𝑥=(−𝑏±(𝑏^2−4𝑎𝑐)^1/2)/2𝑎<br>
+Check if the term b^2-4ac < 0 then roots are imaginary. Display appropriate message on the screen. Otherwise find the roots and display them to the user.
+{% highlight c linenos %}
+#include<stdio.h>
+#include<math.h>
+void main()
+{
+	float a,b,c,det,r1,r2;
+	printf("Enter the values of a, b and c\n");
+	scanf("%f%f%f",&a,&b,&c);
+	det=b*b-4*a*c;
+	if(det<0)
+		printf("Roots are imaginary\n");
+	else
+	{
+		r1=(-b+sqrt(det))/2*a;
+		r2=(-b-sqrt(det))/2*a;
+		printf("Roots are %f and %f\n",r1,r2);
+	}
+}
+{% endhighlight %}
+WAP in C to read an integer number from keyboard, add 1 to it if the number read is even, again add 1 to it if the number is less than 20, otherwise keep the number unchanged and print the final result.
+[Hint: You have to use nested if]<br>
+{% highlight c linenos %}
+#include<stdio.h>
+void main()
+{
+	int num;
+	printf("Enter a number\n");
+	scanf("%d",&num);
+	if(num%2==0)
+	{
+		num=num+1;
+		if(num<20)
+			num=num+1;
+	}
+	printf("Num is now %d\n",num);
+}
 
+{% endhighlight %}
+WAP to calculate hospital bill according to following conditions:<br>
+a. If age<=10 No charge<br>
+b. If age>=11 and age<=40 100 Rs<br>
+c. If age>=41 and age<=60 75 Rs<br>
+d. If age>=61 50 Rs<br>
+{% highlight c linenos %}
+#include<stdio.h>
+int main()
+{
+	int age,bill;
+	printf("Enter age: ");
+	scanf("%d",&age);
+	if(age<=10)
+		bill=0;
+	else if(age<=40)
+		bill=100;
+	else if(age<=60)
+		bill=75;
+	else
+		bill=50;
+	printf("Hospital Bill is %d\n",bill);
+	return 0;
+}
+{% endhighlight %}
 
-<h3> Assignment 3.2 Programming Solution </h3><br>
+WAP using switch statement to calculate area of circle, rectangle and triangle. You must ask the user for a choice e.g., 1 for area of circle, 2 for area of rectangle and 3 for area of a triangle. Based on the choice of the user, you must perform the necessary operation. <br>
+{% highlight c linenos %}
+#include<stdio.h>
+#define PI 22.0/7.0
+void main()
+{
+	int choice;
+	float r,areaCircle,l,b,areaRect,base,h,areaTriangle;
+	printf("Enter your choice:\n");
+	printf("1. To find area of circle\n");
+	printf("2. To find area of rectangle\n");
+	printf("3. To find area of trangle\n");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1: printf("Enter radius: ");
+				scanf("%f",&r);
+				areaCircle=PI*r*r;
+				printf("Area of circle is %f\n",areaCircle);
+				break;
+		case 2: printf("Enter length and breadth: ");
+				scanf("%f%f",&l,&b);
+				areaRect=l*b;
+				printf("Area of rectangle is %f\n",areaRect);
+				break;
+		case 3: printf("Enter base and height: ");
+				scanf("%f%f",&base,&h);
+				areaTriangle=0.5*base*h;
+				printf("Area of triangle is %f\n",areaTriangle);
+				break;
+		default: printf("Sorry wrong choice\n");
+
+	}
+}
+
+{% endhighlight %}
+<br><h3> Assignment 3.2 Programming Solution </h3><br>
 WAP to find out whether a number is prime number.<br>
 {% highlight c linenos %}
 #include<stdio.h>
