@@ -22,7 +22,7 @@ categories: jekyll update
 {% highlight c %}
 #include<stdio.h>
 #include<stdlib.h>
-int main()
+void main()
 {
 	int i,n;
 	printf("Enter a number: ");
@@ -36,9 +36,23 @@ int main()
 		}
 	}
 	printf("%d is a prime number\n",n);
-	return 0;
 }
 
-{% endhighlight %}
-2. WAP to find sum of digits of a number. <br>
 
+2. WAP to find sum of digits of a number. <br>
+#include<stdio.h>
+int main()
+{
+	int n,r,sum=0;
+	printf("Enter a number: ");
+	scanf("%d",&n);
+	while(n!=0)
+	{	
+		r=n%10; //Extracting the last digit
+		sum=sum+r;	//Adding the digit
+		n=n/10; //Reducing the length of the n by 1
+		
+	}
+	printf("Sum of digits of is %d\n",sum);
+	return 0;
+}
