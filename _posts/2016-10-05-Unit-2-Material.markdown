@@ -19,7 +19,7 @@ categories: jekyll update
 <strong> Patterns and Designs Presentation</strong><br>
 <a href="http://anubhavpatrick.github.io/Patterns%20and%20Design%20using%20C%20Language.pptx"> Click here to download presentation on patterns and designs </a><br>
 
-<strong> Recursion Presentation </strong>
+<strong> Recursion Presentation </strong><br>
 <a href="http://anubhavpatrick.github.io/Recursion.pptx"> Click here to download presentation on Recursion </a><br>
 <h3> Assignment 3.1 Programming Solution </h3><br>
 WAP to find out whether a given number is a multiple of 11 or not.<br>
@@ -297,9 +297,9 @@ void main()
 int fact(int n)// Function Definition
 {
 	if(n==0)
-		return 1;
+		return 1; //base case
 	else
-		return n*fact(n-1);
+		return n*fact(n-1); //recursive case
 }
 {% endhighlight %}
 
