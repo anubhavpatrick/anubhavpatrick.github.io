@@ -5,6 +5,8 @@ date:   2016-08-22 09:15:36 +0530
 categories: jekyll update
 ---
 
+<strong> Lab Solutions <strong>
+<a href="http://anubhavpatrick.github.io/CSP%20Lab%20Solutions.pdf">Click here to download lab solutions </a>
 <strong> Lab Index  </strong><br>
 <a href="http://anubhavpatrick.github.io/index_for_lab.doc"> Click here to download index of lab practicals </a><br>
 This file contains lab practical index. There are 40 programs and students are expected to perform all of them in the exact same sequence. You are also expected to write these programs in the exact order in A4 size unruled (blank) sheets and get them checked after each lab turn. You
