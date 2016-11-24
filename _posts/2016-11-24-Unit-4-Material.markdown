@@ -6,7 +6,8 @@ categories: jekyll update
 ---
 
 <strong> Unit 4 Notes</strong><br>
-<a href="http://anubhavpatrick.github.io/Unit%204%20Notes.pdf"> It is advised that students use the handwriten notes distributed in class. The notes given here can be used for reference purpose. c</a><br>
+It is advised that students use the handwriten notes distributed in class. The notes given here can be used for reference purpose<br>
+<a href="http://anubhavpatrick.github.io/Unit%204%20Notes.pdf">Click here to download unit 4 notes</a><br>
 <br>
 
 <strong> Structures Presentation </strong><br>
@@ -14,7 +15,7 @@ categories: jekyll update
 <br>
 
 <strong> Union Presentation </strong><br>
-<a href="http://anubhavpatrick.github.io/unions.ppt"> Click here to download Unions presentation</a><br>
+<a href="http://anubhavpatrick.github.io/union.ppt"> Click here to download Unions presentation</a><br>
 <br>
 
 <strong> String Presentation</strong><br>
