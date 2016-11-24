@@ -4,7 +4,7 @@ title:  "RCS 101 Unit 5"
 date:   2016-11-24 09:15:36 +0530
 categories: jekyll update
 ---
-<br> Students should study topic Dynamic Memory Allocation for theory purpose </br>
+<br> Students should also study topic Dynamic Memory Allocation and command line arguments (also called Passing Values to Compiler) for theory purpose <br>
 
 <strong> Unit 5 Notes Part 1</strong><br>
 <a href="http://anubhavpatrick.github.io/Unit%205%20Notes.pdf"> Click here to download unit 5 notes part 1.</a><br>
