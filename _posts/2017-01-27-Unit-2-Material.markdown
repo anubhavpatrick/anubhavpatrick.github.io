@@ -13,6 +13,6 @@ Students are required to submit this assignment on or before 3 Feb 2017<br>
 Students must thoroughly solve these question to attain good marks in CTs and Externals<br>
 
 <strong> Unit 2 Notes </strong><br>
-<a href="http://anubhavpatrick.github.io/unit%201%20Notes.pdf"> Click here to download unit 1 notes </a><br>
+<a href="http://anubhavpatrick.github.io/unit%202%20Notes.pdf"> Click here to download unit 2 notes </a><br>
 These notes are only for revision purpose. I suggest students to follow text book for normal studying.<br>
 
