@@ -13,3 +13,6 @@ Students must thoroughly solve these question to attain good marks in CTs and Ex
 <a href="http://anubhavpatrick.github.io/unit%201%20Notes.pdf"> Click here to download unit 1 notes </a><br>
 These notes are only for revision purpose. I suggest students to follow text book for normal studying.<br>
 
+<strong> Unit 1 Presentation </strong><br>
+<a href="http://anubhavpatrick.github.io/unit%201%20version%202.0.ppt"> Click here to download unit 1 presentation </a><br>
+
