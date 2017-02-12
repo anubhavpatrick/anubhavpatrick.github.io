@@ -9,7 +9,7 @@ categories: jekyll update
 Students are required to submit this assignment on or before 3 Feb 2017<br>
 
 <strong> Unit 2 Question Bank </strong><br>
-<a href="http://anubhavpatrick.github.io/question%20bank/unit%201 question%20bank.pdf"> Click here to download unit 2 question bank </a><br>
+<a href="http://anubhavpatrick.github.io/question%20bank/unit%202 question%20bank.pdf"> Click here to download unit 2 question bank </a><br>
 Students must thoroughly solve these question to attain good marks in CTs and Externals<br>
 
 <strong> Unit 2 Notes </strong><br>
