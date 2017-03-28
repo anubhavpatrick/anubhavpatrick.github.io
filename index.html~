@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-
+<strong> Syllabus for CT2 </strong><br>
+Unit 2- Storage Class <br>
+Unit 3- Complete <br>
+Unit 4- 1 Dimensional Arrays <br>
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
@@ -17,7 +20,5 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfl1S7vmKT-HMm_MdrfpZluf7KUpL20GDfqxn4NcRZTadncHg/viewform?embedded=true" width="760" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 
 </div>
